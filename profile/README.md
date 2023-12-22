@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="image/icon.png" width="100"/>
+  <img src="profile/image/icon.png" width="100"/>
 </div>
 
 
@@ -12,11 +12,11 @@ Verba - это клиент-серверное приложение для ви�
 
 ## Архитектура проекта
 
-![img.png](image/structure_project.png)
+![img.png](profile/image/structure_project.png)
 
 ## Презентация проекта
 
-[Скачать презентацию](docs/slide.pdf)
+[Скачать презентацию](profile/docs/slide.pdf)
 
 ## UseCases
 
